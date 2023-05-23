@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/bin/Debug/net7.0/gpa-app
+/workspaces/codespaces-blank/bin/Debug/net7.0/gpa-app.deps.json
+/workspaces/codespaces-blank/bin/Debug/net7.0/gpa-app.runtimeconfig.json
+/workspaces/codespaces-blank/bin/Debug/net7.0/gpa-app.dll
+/workspaces/codespaces-blank/bin/Debug/net7.0/gpa-app.pdb
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.AssemblyInfo.cs
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.dll
+/workspaces/codespaces-blank/obj/Debug/net7.0/refint/gpa-app.dll
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.pdb
+/workspaces/codespaces-blank/obj/Debug/net7.0/gpa-app.genruntimeconfig.cache
+/workspaces/codespaces-blank/obj/Debug/net7.0/ref/gpa-app.dll
